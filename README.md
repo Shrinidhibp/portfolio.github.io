@@ -6,7 +6,8 @@ Implementing a Vendor Management System (VMS) involves assessing organizational 
 
 🚀 Skills
 C++
-Data Structures and Algorithms
+Data Structures:Graph
+Algorithms:Dijkstra's algorithm.
 
 🌐 Find Me Online
 GitHub(https://github.com/Shrinidhibp/portfolio.github.io/edit/main/README.md)
@@ -15,7 +16,7 @@ Portfolio(https://github.com/Shrinidhibp/portfolio.github.io/edit/main/README.md
 Course Details
 Course Name: Algorithmic Problem Solving
 
-Course Code: 24ECSC205
+Course Code: 24ECSC203
 
 Name: Shrinidhi Paschapur
 
